@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- background colour for Number category-->
+    <color name="category_numbers">#4CAF50</color>
+    <!--backgrount colour for Family categry-->
+    <color name="category_family">#0A74AD</color>
+    <!--bacground c0lour for Phrases categrory-->
+    <color name="category_Phrases">#982AAA</color>
+    <!--bacground colour for  Colour category-->
+    <color name="category_colours">#68D60C</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+
+</resources>
